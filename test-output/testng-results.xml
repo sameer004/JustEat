@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26077" started-at="2019-06-20T23:32:41Z" finished-at="2019-06-20T23:33:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26077" started-at="2019-06-20T23:32:41Z" finished-at="2019-06-20T23:33:07Z">
+      <class name="qa.justeat.test.Homepage_Test2">
+        <test-method status="PASS" signature="testsetup()[pri:0, instance:qa.justeat.test.Homepage_Test2@1e397ed7]" name="testsetup" is-config="true" duration-ms="7042" started-at="2019-06-20T19:32:41Z" finished-at="2019-06-20T19:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method status="PASS" signature="verfify_landing_page()[pri:1, instance:qa.justeat.test.Homepage_Test2@1e397ed7]" name="verfify_landing_page" duration-ms="396" started-at="2019-06-20T19:32:48Z" finished-at="2019-06-20T19:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfify_landing_page -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:qa.justeat.test.Homepage_Test2@1e397ed7]" name="teardown" is-config="true" duration-ms="136" started-at="2019-06-20T19:32:49Z" finished-at="2019-06-20T19:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="testsetup()[pri:0, instance:qa.justeat.test.Homepage_Test2@1e397ed7]" name="testsetup" is-config="true" duration-ms="5946" started-at="2019-06-20T19:32:49Z" finished-at="2019-06-20T19:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method status="PASS" signature="search_by_postCode()[pri:2, instance:qa.justeat.test.Homepage_Test2@1e397ed7]" name="search_by_postCode" duration-ms="10129" started-at="2019-06-20T19:32:55Z" finished-at="2019-06-20T19:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_by_postCode -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:qa.justeat.test.Homepage_Test2@1e397ed7]" name="teardown" is-config="true" duration-ms="2380" started-at="2019-06-20T19:33:05Z" finished-at="2019-06-20T19:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- qa.justeat.test.Homepage_Test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
